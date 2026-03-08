@@ -1,1 +1,21 @@
 ///
+
+tools canvas layers option bar
+
+- moving tool -V
+- Brush -B
+  alt+ mouse right Drag up or down 
+- zoom  -z
+ ctr+ space Drag up or down 
+ ctr+O
+ space for hand icone
+- layer
+ ctr + [ for down
+ ctr + ] for up to move the layers 
+
+- Transformation : resize the icons
+    ctr +T
+    shit 
+    enter
+    shift + rotate
+    alt move the anchor point
